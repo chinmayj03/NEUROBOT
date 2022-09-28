@@ -1,10 +1,14 @@
 # NEUROBOT
 
 This project aims to make a robot that works on commands received from brain. In other words, it can be controlled by mere thoughts. The following repo tells about the building of the software part of the robot.
+
 ## Workdone 
 Biological part is done.
 
 Due to problems (mentioned at last) we are unable to move ahead.
+
+## Motivation
+To get tasks done, just by using brain thoughts rather than doing them physically. Especially when one is fatigued or medically incapacitated, it will add up as a helping hand. This will be basically mind reading! This can be used for industrial purposes as well. It will serve as a breakthrough in the technological world.
 
 ## Introduction
 
